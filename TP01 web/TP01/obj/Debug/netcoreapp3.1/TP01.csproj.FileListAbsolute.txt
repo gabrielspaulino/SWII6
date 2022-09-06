@@ -1,0 +1,149 @@
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01\TP01\bin\Debug\netcoreapp3.1\TP01.exe
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01\TP01\bin\Debug\netcoreapp3.1\TP01.deps.json
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01\TP01\bin\Debug\netcoreapp3.1\TP01.runtimeconfig.json
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01\TP01\bin\Debug\netcoreapp3.1\TP01.runtimeconfig.dev.json
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01\TP01\bin\Debug\netcoreapp3.1\TP01.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01\TP01\bin\Debug\netcoreapp3.1\TP01.pdb
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01\TP01\obj\Debug\netcoreapp3.1\TP01.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01\TP01\obj\Debug\netcoreapp3.1\TP01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01\TP01\obj\Debug\netcoreapp3.1\TP01.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01\TP01\obj\Debug\netcoreapp3.1\TP01.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01\TP01\obj\Debug\netcoreapp3.1\TP01.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01\TP01\obj\Debug\netcoreapp3.1\TP01.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01\TP01\obj\Debug\netcoreapp3.1\TP01.pdb
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01\TP01\obj\Debug\netcoreapp3.1\TP01.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01\TP01\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01\TP01\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01\TP01\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01\TP01\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01\TP01\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01\TP01\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Hosting.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01\TP01\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01\TP01\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01\TP01\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01\TP01\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01\TP01\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01\TP01\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01\TP01\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01\TP01\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Routing.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01\TP01\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01\TP01\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01\TP01\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01\TP01\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01\TP01\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01\TP01\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01\TP01\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Transport.Libuv.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01\TP01\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01\TP01\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01\TP01\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01\TP01\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01\TP01\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01\TP01\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01\TP01\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01\TP01\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01\TP01\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01\TP01\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01\TP01\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01\TP01\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01\TP01\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01\TP01\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01\TP01\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01\TP01\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01\TP01\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01\TP01\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01\TP01\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01\TP01\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01\TP01\bin\Debug\netcoreapp3.1\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01\TP01\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01\TP01\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01\TP01\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01\TP01\bin\Debug\netcoreapp3.1\Microsoft.Net.Http.Headers.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01\TP01\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01\TP01\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libuv.so
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01\TP01\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libuv.so
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01\TP01\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libuv.so
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01\TP01\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libuv.so
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01\TP01\bin\Debug\netcoreapp3.1\runtimes\osx\native\libuv.dylib
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01\TP01\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\libuv.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01\TP01\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\libuv.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01\TP01\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\libuv.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01\TP01\obj\Debug\netcoreapp3.1\TP01.csproj.CopyComplete
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01 web\TP01\bin\Debug\netcoreapp3.1\TP01.exe
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01 web\TP01\bin\Debug\netcoreapp3.1\TP01.deps.json
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01 web\TP01\bin\Debug\netcoreapp3.1\TP01.runtimeconfig.json
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01 web\TP01\bin\Debug\netcoreapp3.1\TP01.runtimeconfig.dev.json
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01 web\TP01\bin\Debug\netcoreapp3.1\TP01.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01 web\TP01\bin\Debug\netcoreapp3.1\TP01.pdb
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01 web\TP01\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01 web\TP01\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01 web\TP01\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01 web\TP01\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01 web\TP01\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01 web\TP01\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Hosting.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01 web\TP01\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01 web\TP01\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01 web\TP01\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01 web\TP01\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01 web\TP01\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01 web\TP01\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01 web\TP01\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01 web\TP01\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Routing.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01 web\TP01\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01 web\TP01\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01 web\TP01\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01 web\TP01\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01 web\TP01\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01 web\TP01\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01 web\TP01\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Transport.Libuv.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01 web\TP01\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01 web\TP01\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01 web\TP01\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01 web\TP01\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01 web\TP01\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01 web\TP01\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01 web\TP01\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01 web\TP01\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01 web\TP01\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01 web\TP01\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01 web\TP01\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01 web\TP01\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01 web\TP01\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01 web\TP01\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01 web\TP01\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01 web\TP01\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01 web\TP01\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01 web\TP01\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01 web\TP01\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01 web\TP01\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01 web\TP01\bin\Debug\netcoreapp3.1\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01 web\TP01\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01 web\TP01\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01 web\TP01\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01 web\TP01\bin\Debug\netcoreapp3.1\Microsoft.Net.Http.Headers.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01 web\TP01\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01 web\TP01\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libuv.so
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01 web\TP01\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libuv.so
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01 web\TP01\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libuv.so
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01 web\TP01\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libuv.so
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01 web\TP01\bin\Debug\netcoreapp3.1\runtimes\osx\native\libuv.dylib
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01 web\TP01\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\libuv.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01 web\TP01\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\libuv.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01 web\TP01\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\libuv.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01 web\TP01\obj\Debug\netcoreapp3.1\TP01.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01 web\TP01\obj\Debug\netcoreapp3.1\TP01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01 web\TP01\obj\Debug\netcoreapp3.1\TP01.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01 web\TP01\obj\Debug\netcoreapp3.1\TP01.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01 web\TP01\obj\Debug\netcoreapp3.1\TP01.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01 web\TP01\obj\Debug\netcoreapp3.1\TP01.csproj.CopyComplete
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01 web\TP01\obj\Debug\netcoreapp3.1\TP01.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01 web\TP01\obj\Debug\netcoreapp3.1\TP01.pdb
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01 web\TP01\obj\Debug\netcoreapp3.1\TP01.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01 web\TP01\bin\Debug\netcoreapp3.1\Microsoft.Data.Tools.Schema.Sql.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01 web\TP01\bin\Debug\netcoreapp3.1\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01 web\TP01\bin\Debug\netcoreapp3.1\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01 web\TP01\bin\Debug\netcoreapp3.1\Microsoft.Data.Tools.Utilities.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01 web\TP01\bin\Debug\netcoreapp3.1\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01 web\TP01\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.Data.Tools.Schema.Sql.resources.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01 web\TP01\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.Data.Tools.Schema.Sql.UnitTesting.resources.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01 web\TP01\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.Data.Tools.Utilities.resources.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas web 2\TP01 web\TP01\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
