@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gOajCdPOpJuyIkMYeCYFrWs7Poqb+i050n7Fw7Sgitupq69ydOGBsRKRz797kqyy4IvcBhO6fdKRSH2tlXI9sg==",
+  "dgSpecHash": "AM1ZdTInGkEBIRsvyAGVipeYFz3zmnH3EM71RBqKYR6KvCutT5pGv89zvP6kGkpzPjrpoxIDxFmKY+Gl0wyhAA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Gabriel\\Desktop\\SWII6\\TP02\\TP02\\TP02.csproj",
+  "projectFilePath": "C:\\Users\\Gabriel\\Desktop\\SWII6 git\\SWII6\\TP02\\TP02\\TP02.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Gabriel\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Gabriel\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
