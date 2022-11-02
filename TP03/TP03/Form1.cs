@@ -5,6 +5,7 @@ using System.Net.Http;
 using Newtonsoft.Json;
 using System.Text;
 using System.Net.Http.Json;
+using System.Collections.Generic;
 
 namespace TP03
 {
@@ -67,10 +68,11 @@ namespace TP03
         {
             URI = txtUri.Text;
             Livro livro = new Livro();
-            livro.Titulo = "Titulo";
-            livro.Subtitulo = "Subtitulo";
-            livro.Resumo = "Resumo";
-            livro.Autor = "Autor";
+            List<String> atributos = InputBoxAddLivro();
+            livro.Titulo = atributos[0];
+            livro.Subtitulo = atributos[1];
+            livro.Resumo = atributos[2];
+            livro.Autor = atributos[3];
             using (var client = new HttpClient())
             {
                 var serializedLivro = JsonConvert.SerializeObject(livro);
@@ -84,10 +86,12 @@ namespace TP03
         {
             URI = txtUri.Text;
             Livro livro = new Livro();
-            livro.Titulo = "Titulo2";
-            livro.Subtitulo = "Subtitulo2";
-            livro.Resumo = "Resumo2";
-            livro.Autor = "Autor2";
+            List<String> atributos = InputBoxAddLivro();
+            livro.Id = codLivro;
+            livro.Titulo = atributos[0];
+            livro.Subtitulo = atributos[1];
+            livro.Resumo = atributos[2];
+            livro.Autor = atributos[3];
 
             using (var client = new HttpClient())
             {
@@ -128,7 +132,7 @@ namespace TP03
         {
             // usando a função VB.Net para exibir um prompt para o usuário informar a senha
             string Prompt = "Informe o código do Livro.";
-            string Titulo = "www.macoratti.net";
+            string Titulo = "Livro";
             string Resultado = Microsoft.VisualBasic.Interaction.InputBox(Prompt, Titulo, "9", 600, 350);
             // verifica se o resultado é uma string vazia o que indica que foi cancelado.
             if (Resultado != "")
@@ -141,6 +145,21 @@ namespace TP03
             }
         }
 
+        private List<string> InputBoxAddLivro()
+        {
+            // usando a função VB.Net para exibir um prompt para o usuário informar a senha
+            string Prompt = "Título do Livro";
+            string Titulo = "Adicionar Livro";
+            List<string> Atributos = new List<string>();
+            Atributos.Add(Microsoft.VisualBasic.Interaction.InputBox(Prompt, Titulo, "9", 600, 350));
+            Prompt = "Subtítulo do Livro";
+            Atributos.Add(Microsoft.VisualBasic.Interaction.InputBox(Prompt, Titulo, "9", 600, 350));
+            Prompt = "Resumo do Livro";
+            Atributos.Add(Microsoft.VisualBasic.Interaction.InputBox(Prompt, Titulo, "9", 600, 350));
+            Prompt = "Autor do Livro";
+            Atributos.Add(Microsoft.VisualBasic.Interaction.InputBox(Prompt, Titulo, "9", 600, 350));
+            return Atributos;
+        }
         private void btnObterLivros_Click(object sender, EventArgs e)
         {
             GetAllLivros();

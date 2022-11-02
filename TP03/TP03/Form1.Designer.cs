@@ -94,6 +94,7 @@ namespace TP03
             this.btnIncluirLivro.TabIndex = 5;
             this.btnIncluirLivro.Text = "Incluir Livro";
             this.btnIncluirLivro.UseVisualStyleBackColor = true;
+            this.btnIncluirLivro.Click += new System.EventHandler(this.btnIncluirLivro_Click);
             // 
             // btnAtualizaLivro
             // 
@@ -103,6 +104,7 @@ namespace TP03
             this.btnAtualizaLivro.TabIndex = 6;
             this.btnAtualizaLivro.Text = "Atualizar Livro";
             this.btnAtualizaLivro.UseVisualStyleBackColor = true;
+            this.btnAtualizaLivro.Click += new System.EventHandler(this.btnAtualizaLivro_Click);
             // 
             // btnDeletaLivro
             // 
@@ -112,6 +114,7 @@ namespace TP03
             this.btnDeletaLivro.TabIndex = 7;
             this.btnDeletaLivro.Text = "Deletar Livro";
             this.btnDeletaLivro.UseVisualStyleBackColor = true;
+            this.btnDeletaLivro.Click += new System.EventHandler(this.btnDeletarLivro_Click);
             // 
             // Form1
             // 
